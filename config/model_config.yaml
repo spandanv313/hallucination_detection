@@ -1,0 +1,5 @@
+embedding_model: "bert-base-uncased"
+classifier_path: "models/classifier.pt"
+triplet_margin: 1.0
+batch_size: 32
+epochs: 5
